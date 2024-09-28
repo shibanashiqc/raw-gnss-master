@@ -1,8 +1,8 @@
 import 'dart:async';
 
 import 'package:flutter/services.dart';
-import 'package:raw_gnss/gnss_measurement_model.dart';
-import 'package:raw_gnss/gnss_status_model.dart';
+import 'package:raw_gnss_flutter/gnss_measurement_model.dart';
+import 'package:raw_gnss_flutter/gnss_status_model.dart';
 
 class RawGnss {
   /// This channel hooks onto the stream for GnssMeasurement events

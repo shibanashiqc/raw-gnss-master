@@ -1,6 +1,6 @@
-name: raw_gnss
+name: raw_gnss_flutter
 description: Fetch Raw GNSS Data - GNSS Measurement Events, Navigation Messages, and Status Events
-version: 1.1.0+1
+version: 1.0.0
 homepage: https://www.github.com/deven98/raw_gnss
 
 environment:
